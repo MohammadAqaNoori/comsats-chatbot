@@ -14,7 +14,7 @@ Source code: GitHub
 
 ## Setup
 
-Clone the repository:git clone https://github.com/your-username/comsats-chatbot.git
+Clone the repository:git clone https://github.com/MohammadAqaNoori/comsats-chatbot
 
 
 Install dependencies:pip install -r requirements.txt
