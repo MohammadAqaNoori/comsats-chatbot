@@ -1,0 +1,626 @@
+{
+  "university": {
+    "name": "COMSATS University Islamabad",
+    "description": "A leading public research university in Pakistan, focused on science, technology, and engineering.",
+    "contact": "info@comsats.edu.pk, +92 51 9049 0000",
+    "website": "https://www.comsats.edu.pk"
+  },
+  "departments": {
+    "computer_science": {
+      "description": "Department of Computer Science, offering BS, MS, and PhD programs in AI, software engineering, and cybersecurity.",
+      "head": "Dr. Sobia Jabeen",
+      "contact": "cs@comsats.edu.pk"
+    }
+  },
+  "programs": {
+    "bcs": {
+      "name": "Bachelor of Computer Science",
+      "semester_1": {
+        "1A": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Mr. Umer Iqbal",
+              "lab_instructor": "Ms. Sana Nasir",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Prof. Dr. Majid Iqbal Khan",
+              "lab_instructor": "Prof. Dr. Majid Iqbal Khan",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Mibah Atta",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Ms. Shafia Jamil",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Ammara Bibi (VF)",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        },
+        "1B": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Mr. Haseeb ur Rehman",
+              "lab_instructor": "Ms. Sana Nasir",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Dr. Gulmina Rextina",
+              "lab_instructor": "Dr. Gulmina Rextina",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Mibah Atta",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Ms. Shafia Jamil",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Ammara Bibi (VF)",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        }
+      }
+    },
+    "bse": {
+      "name": "Bachelor of Software Engineering",
+      "semester_1": {
+        "1A": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Hafiza Sundas Farooq",
+              "lab_instructor": "Mr. Haseeb ur Rehman",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Mr. Muzafar Iqbal",
+              "lab_instructor": "Mr. Muzafar Iqbal",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Rahat ul Ain Azim",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Ms. Shafia Jamil",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Ammara Bibi (VF)",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        },
+        "1B": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Hafiza Sundas Farooq",
+              "lab_instructor": "Mr. Mohsin Ahmed",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Mr. Muzafar Iqbal",
+              "lab_instructor": "Mr. Haseeb ur Rehman",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Rahat ul Ain Azim",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Ms. Shafia Jamil",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Ammara Bibi (VF)",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        }
+      }
+    },
+    "bai": {
+      "name": "Bachelor of Artificial Intelligence",
+      "semester_1": {
+        "1": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Mr. Umar Iqbal",
+              "lab_instructor": "Mr. Zeeshan Baseer Abbasi (TA)",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Prof. Dr. M. Manzoor Illahi Tamimy",
+              "lab_instructor": "Prof. Dr. M. Manzoor Illahi Tamimy",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Rahat ul Ain Azim",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Mr. M. Saleem Kakar (VF)",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Iffat Jabeen",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        }
+      }
+    },
+    "bds": {
+      "name": "Bachelor of Data Science",
+      "semester_1": {
+        "1": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Mr. Muhammad Haris",
+              "lab_instructor": "Mr. Muhammad Haris",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Mr. Khurram Iqbal",
+              "lab_instructor": "Mr. Khurram Iqbal",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Ms. Rahat ul Ain Azim",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Mr. M. Saleem Kakar (VF)",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Iffat Jabeen",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        }
+      }
+    },
+    "bct": {
+      "name": "Bachelor of Cyber Technology",
+      "semester_1": {
+        "1": {
+          "courses": {
+            "CSC101": {
+              "full_name": "Applications of Information and Communication Technologies",
+              "credits": 3,
+              "theory_credits": 2,
+              "lab_credits": 1,
+              "instructor": "Mr. Umar Iqbal",
+              "lab_instructor": "Mr. Umar Iqbal",
+              "schedule": "TBA",
+              "description": "Intro to ICT applications, hardware, software, networks."
+            },
+            "CSC103": {
+              "full_name": "Programming Fundamentals",
+              "credits": 4,
+              "theory_credits": 3,
+              "lab_credits": 1,
+              "instructor": "Mr. Umar Iqbal",
+              "lab_instructor": "Mr. Qasim Malik",
+              "schedule": "TBA",
+              "description": "Basics of programming (likely C/C++ or Python fundamentals)."
+            },
+            "HUM104": {
+              "full_name": "Functional English",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Mr. Mehmood ul Hassan",
+              "schedule": "TBA",
+              "description": "English language skills for communication and academics."
+            },
+            "HUM130": {
+              "full_name": "Fundamentals of Sociology",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "instructor": "Dr. Aamna Afzal",
+              "schedule": "TBA",
+              "description": "Core sociological concepts relevant to society and technology."
+            },
+            "MTH091": {
+              "full_name": "Pre-Calculus I",
+              "credits": 3,
+              "theory_credits": 3,
+              "lab_credits": 0,
+              "instructor": "Dr. Iffat Jabeen",
+              "schedule": "TBA",
+              "description": "Review of algebra, functions, trig for pre-medical students.",
+              "note": "Optional for pre-medical students only"
+            },
+            "HUM208": {
+              "full_name": "Civics and Community Engagement",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Civic responsibilities and societal engagement."
+            },
+            "HUM112_HUM116": {
+              "full_name": "Islamic Studies / Ethics",
+              "credits": 2,
+              "theory_credits": 2,
+              "lab_credits": 0,
+              "mode": "Online/Hybrid",
+              "schedule": "TBA",
+              "description": "Religious/ethical studies tailored to student profile."
+            },
+            "HUM101": {
+              "full_name": "Fehm ul Quran-I",
+              "credits": 1,
+              "theory_credits": 0,
+              "lab_credits": 1,
+              "mode": "Online/Seminar",
+              "schedule": "TBA",
+              "description": "Quranic studies seminar."
+            }
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "name": "FA25 Orientation",
+      "date": "September 15, 2025",
+      "description": "Welcome event for Fall 2025 semester students, including campus tour and registration help."
+    },
+    {
+      "name": "Tech Fest 2025",
+      "date": "October 20, 2025",
+      "description": "Annual tech festival with workshops, competitions, and guest speakers on AI and innovation."
+    },
+    {
+      "name": "Midterm Week",
+      "date": "October 27 - November 2, 2025",
+      "description": "Midterm examinations for all departments."
+    }
+  ],
+  "admissions": {
+    "fa25": {
+      "open_date": "August 1, 2025",
+      "close_date": "September 10, 2025",
+      "requirements": "HSSC with 60% marks, entry test score, apply at https://admissions.comsats.edu.pk.",
+      "contact": "admissions@comsats.edu.pk"
+    }
+  },
+  "general_info": {
+    "library": "Open 8:00 AM - 10:00 PM, contact library@comsats.edu.pk.",
+    "cafeteria": "Multiple locations on campus, halal food available.",
+    "transport": "University shuttle services for students."
+  },
+  "notes": "Timetable prepared on August 30, 2025, current as of September 21, 2025. (VF) denotes Visiting Faculty; (TA) denotes Teaching Assistant. Schedules marked 'TBA' to be updated with exact times from COMSATS portal."
+}
